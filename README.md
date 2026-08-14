@@ -55,14 +55,22 @@ Desenvolver uma plataforma moderna de controle de ponto eletrônico com autentic
 * face-api.js (fase inicial)
 * AWS Rekognition ou Azure Face API (fase futura)
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
-facialrh/
-├── mobile/      # Aplicativo React Native (tablet)
-├── backend/     # API Node.js
-├── web/         # Painel administrativo
-├── docs/        # Documentação e diagramas
-└── README.md
+* facialrh/
+* mobile/  
+     Aplicativo React Native (tablet)
+
+* backend/ 
+   *   API Node.js
+
+ * web/     
+    *  Painel administrativo
+
+* docs/    
+     * Documentação e diagramas
+
+ * README.md
 
 ## Como executar
 
