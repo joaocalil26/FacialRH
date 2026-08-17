@@ -1,41 +1,31 @@
-# FacialRH ( Em Desenvolvimento )
+# FacialRH
 
-### Aplicativo (Tablet)
+Aplicativo de controle de jornada para empresas.
 
-* React Native
-* Expo
-* TypeScript
+## 🚧 Status
 
-### Backend
+Em desenvolvimento.
 
-* Node.js
-* Express
-* Prisma ORM
+## 📱 Tecnologias
 
-### Banco de Dados
+- React Native
+- Expo
+- TypeScript
+- JavaScript
 
-* PostgreSQL
+## 🎯 Objetivo
 
-## Roadmap
+O FacialRH tem como objetivo fornecer uma solução de registro de ponto
+para empresas utilizando dispositivos móveis ou tablets como terminais
+de registro.
 
-* Estrutura inicial do projeto
-* Interface do tablet
-* Relógio em tempo real
-* Cadastro de colaboradores
-* Integração com PostgreSQL
-* API REST
-* Captura da câmera
-* Reconhecimento facial
-* Painel administrativo
-* Geração de relatórios
-* Publicação para empresas
+A proposta inclui futuramente o reconhecimento facial para identificação
+dos colaboradores.
 
-## Licença
+## 👨‍💻 Desenvolvimento
 
-Este projeto está sendo desenvolvido para fins educacionais e de portfólio.
+Projeto desenvolvido como parte dos meus estudos em Engenharia de Software.
 
-## Autor
+---
 
-**João Calil**
-
-Projeto desenvolvido durante os estudos de Engenharia de Software.
+Mais informações serão adicionadas conforme o desenvolvimento avançar.
